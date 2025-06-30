@@ -1,7 +1,7 @@
-# ⚛️ React
+<h1 align="center">⚛️ React</h1>
 
-> ⚠️ React is not a framework — it's a **JavaScript library** developed by **Facebook** to handle **efficient DOM manipulations**, resulting in fast and responsive UIs.
+- ⚠️ React is not a framework — it's a **JavaScript library** developed by **Facebook** to handle **efficient DOM manipulations**, resulting in fast and responsive UIs.
 
 ---
 
-![alt text](img\libvsframe.png)
+<img src = "img\libvsframe.png">
